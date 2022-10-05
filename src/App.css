@@ -77,6 +77,7 @@
     width: 90%;
     border: none;
     border-radius: 3px 0 0 3px;
+    font-size: 25px;
 }
 
 .searchBox button {
